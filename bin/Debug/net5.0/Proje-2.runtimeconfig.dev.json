@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\emrea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emrea\\.nuget\\packages"
+    ]
+  }
+}
